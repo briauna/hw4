@@ -1,5 +1,5 @@
 background(0,0,0); 
-stroke(200,0,100);
+stroke(360);
  rect(15,15,310,310);
  noFill();
 ellipse(170,170,308,308);
